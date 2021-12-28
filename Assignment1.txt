@@ -1,0 +1,11 @@
+1. Autemate 5 test cases in Selenium IDE with following flows -
+a. Account activity --> Find Transactions
+b. Fund transfer - Transfer Money & Make Payments
+c. Pay Bills - Make payments to your saved payees
+d. Pay Bills - Purchase foreign currency cash
+e. Pay Bills - Add new payee
+
+
+-- add all the validations for Title on each page
+-- add validations (verify and assert) in all the test cases at every necessory place.
+-- create a test suite out of all 5 test cases and save it.
