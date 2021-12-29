@@ -1,4 +1,4 @@
 Write webdriver script for the following flow 
-login --> pay bill --> add new payee --> and log out
-
+1. login --> pay bill --> add new payee --> and log out
+2. Feedback
 use all the locator techniques in the script at least once.
