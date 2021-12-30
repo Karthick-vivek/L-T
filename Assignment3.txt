@@ -1,0 +1,7 @@
+1. On Zero Bank app
+Automate 'Purchase foreign currency cash' flow by keeping all the field empty and click on 'purchase' button.
+It will give an Alert, you have to handle it.
+2. On naukri.com
+on home page handle location confirmation popup
+3. On naukri.com
+click on company brand logs, it will open child window, handle those multiple windows.
