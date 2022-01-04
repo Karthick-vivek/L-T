@@ -1,0 +1,7 @@
+Write TestNG test cases including all the attribute and suite file. Showcase examples of include and exclude groups
+
+On Zero Bank app
+1. Automate 'Purchase foreign currency cash' flow by keeping all the field empty and click on 'purchase' button.It will give an Alert, you have to handle it.
+2. Write flow for Fund transefer positive test
+3. Write 5 negative test cases as part of regression test
+4. all the positive test cases will be Smoke test and all negative test cases will be part of Regression test
